@@ -1,0 +1,20 @@
+{
+  "name": "did-you-know-be",
+  "version": "1.0.0",
+  "description": "- provides data analysis of surveys about areas of interest to American audiences - people can respond to existing surveys and create their own surveys",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pulse99r/did-you-know-be.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulse99r/did-you-know-be/issues"
+  },
+  "homepage": "https://github.com/pulse99r/did-you-know-be#readme"
+}
